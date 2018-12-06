@@ -1,3 +1,3 @@
 ```
-# rails generate spreadsheet <model_name>
+$ rails generate spreadsheet <model_name>
 ```
